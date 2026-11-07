@@ -1,0 +1,20 @@
+{
+  "name": "ts-aho-corasick",
+  "version": "1.0.0",
+  "description": "Aho-Corasick multi-pattern string matching automaton",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "aho-corasick", "pattern-matching", "automaton", "algorithms"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-aho-corasick.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
